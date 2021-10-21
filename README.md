@@ -19,9 +19,9 @@
 |MATLAB&reg; R2021a or later|
 |Deep Learning Toolbox&trade;|
 |Computer Vision Toolbox&trade;|
-|[Pretrained YOLOv4]("https://github.com/matlab-deep-learning/pretrained-yolo-v4")|
+|[Pretrained YOLOv4](https://github.com/matlab-deep-learning/pretrained-yolo-v4)|
 
-> Download or clone the [***pretrained-yolo-v4***]("https://github.com/matlab-deep-learning/pretrained-yolo-v4") repository on your machine and place it in assets/libs/{_pretrained-yolo-v4_} and open it in MATLAB®.
+> Download or clone the [***pretrained-yolo-v4***](https://github.com/matlab-deep-learning/pretrained-yolo-v4) repository on your machine and place it in assets/libs/{_pretrained-yolo-v4_} and open it in MATLAB®.
 
 - Add path to the source directory:
 ```MATLAB
