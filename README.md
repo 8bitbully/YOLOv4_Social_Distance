@@ -99,6 +99,7 @@ Features are below. You can turn them on/off.
 |```shape= "FilledRectangle"```|
 |```shape= "Circle"```|
 |```shape= "FilledCircle"```|
+
 ![safe](assets/img/safe.png)
 
 
